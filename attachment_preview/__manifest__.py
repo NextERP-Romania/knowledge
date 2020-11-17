@@ -13,7 +13,7 @@
         "templates/assets.xml",
     ],
     "qweb": [
-        "static/src/xml/attachment_preview.xml",
+ #       "static/src/xml/attachment_preview.xml",
     ],
     "installable": True,
 }
